@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF5722</color>
+    <color name="colorPrimaryLight">#FFAB91</color>
+    <color name="colorPrimaryDark">#BF360C</color>
+    <color name="colorAccent">#1DE9B6</color>
+
+    <color name="textColorPrimary">#000000</color>
+    <color name="textColorPrimaryLight">#FFFFFF</color>
+    <color name="textLinkColor">#1DE9B6</color>
+    <color name="bodyTextBackground">#FFFFFF</color>
+
+    <color name="photo_placeholder">#CCCCCC</color>
+</resources>
