@@ -5,5 +5,5 @@ Transformed the user experience of a news reading app using Material Design prin
 1. Clone repository to local directory.
 2. Import project into Android Studio and build.
 
-**Note: ** 
-The data stream in this project is placeholder data from a dropbox source.
+**Note:** 
+ The data stream in this project is placeholder data from a dropbox source.
